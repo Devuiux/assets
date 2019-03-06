@@ -1,0 +1,3 @@
+#form div[data-role=page-header] {
+    display: none !important;
+    margin: auto;}
